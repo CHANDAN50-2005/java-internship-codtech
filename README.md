@@ -79,7 +79,7 @@ cd java-internship-codtech
 
 ---
 
-### 2. Explore Each Task
+## 2. Explore Each Task
 
 The repository has 4 folders:
 
