@@ -77,7 +77,7 @@ Then navigate into the project folder:
 cd java-internship-codtech
 
 
-### 2. Explore Each Task
+### *2. Explore Each Task*
 
 The repository has 4 folders:
 
@@ -133,17 +133,19 @@ Output samples
 Screenshots
 
 
-🏁 Completion Status:
+## 🏁 Completion Status
 
-Task	Description	                    Status
-1	    File Handling in Java 	        ✅ Completed
-2	    REST API Client	                ✅ Completed
-3    	Multithreaded Chat App	        ✅ Completed
-4   	Recommendation System (Mahout)	✅ Completed
+| Task | Description                        | Status        |
+|------|------------------------------------|---------------|
+| 1    | File Handling in Java              | ✅ Completed  |
+| 2    | REST API Client                    | ✅ Completed  |
+| 3    | Multithreaded Chat App             | ✅ Completed  |
+| 4    | Recommendation System (Mahout)     | ✅ Completed  |
 
 
-📧 Contact:
+## 📧 Contact
 
-Name: Chandan Jaiwant Gouda
-GitHub: CHANDAN50-2005
-Email: mrchandangouda50@gmail.com
+- **Name:** Chandan Jaiwant Gouda  
+- **GitHub:** [CHANDAN50-2005](https://github.com/CHANDAN50-2005)  
+- **Email:** *your.email@example.com*
+
