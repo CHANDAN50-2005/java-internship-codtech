@@ -20,7 +20,7 @@ This repository contains the completed tasks from my 4-week internship at **Code
 This repository includes the following 4 tasks:
 
 ## ✅ Task 1: File Handling in Java
-
+---
 - **Objective:** Read from and write to text files using Java I/O.
 - **Features:**
   - File creation
