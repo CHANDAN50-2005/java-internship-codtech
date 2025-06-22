@@ -64,6 +64,7 @@ This repository includes the following 4 tasks:
 ## 📌 How to Use This Repository
 
 Follow these steps to download and run the projects locally:
+---
 
 ### 1. Clone the Repository
 
