@@ -76,8 +76,9 @@ Then navigate into the project folder:
 
 cd java-internship-codtech
 
+---
 
-### *2. Explore Each Task*
+### 2. Explore Each Task
 
 The repository has 4 folders:
 
@@ -92,6 +93,7 @@ Task4_Recommendation_System
 
 Go into each folder to view the source code and instructions in the task’s README.md.
 
+---
 
 ### 3. Compile and Run Java Programs
 Make sure Java is installed and set in your system’s PATH.
@@ -108,6 +110,7 @@ cd Task1_File_Handling
 javac FileHandlingUtility.java
 java FileHandlingUtility
 
+---
 
 ### 4. For Task 4 (Apache Mahout – Maven Project)
 Task 4 uses Maven. Navigate to the folder and run:
@@ -117,12 +120,14 @@ mvn compile
 mvn exec:java -Dexec.mainClass="com.example.App"
 Make sure Maven is installed and configured.
 
+---
 
 ### 5. View Output:
 
 Output screenshots are included in each task folder as .png images
 Text output files are also provided where applicable
 
+---
 
 ### 6. Read Instructions
 Every folder contains a README.md with:
@@ -132,6 +137,7 @@ Steps to run the program
 Output samples
 Screenshots
 
+---
 
 ## 🏁 Completion Status
 
@@ -142,6 +148,7 @@ Screenshots
 | 3    | Multithreaded Chat App             | ✅ Completed  |
 | 4    | Recommendation System (Mahout)     | ✅ Completed  |
 
+---
 
 ## 📧 Contact
 
@@ -149,3 +156,4 @@ Screenshots
 - **GitHub:** [CHANDAN50-2005](https://github.com/CHANDAN50-2005)  
 - **Email:** *your.email@example.com*
 
+---
