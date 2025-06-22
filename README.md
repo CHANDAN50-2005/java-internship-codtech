@@ -19,7 +19,7 @@ This repository contains the completed tasks from my 4-week internship at **Code
 
 This repository includes the following 4 tasks:
 
-### ✅ Task 1: File Handling in Java
+## ✅ Task 1: File Handling in Java
 
 - **Objective:** Read from and write to text files using Java I/O.
 - **Features:**
@@ -30,7 +30,7 @@ This repository includes the following 4 tasks:
 
 ---
 
-### ✅ Task 2: REST API Client in Java
+## ✅ Task 2: REST API Client in Java
 
 - **Objective:** Fetch and display weather data from a public REST API.
 - **Features:**
