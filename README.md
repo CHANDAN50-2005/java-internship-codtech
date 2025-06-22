@@ -20,7 +20,6 @@ This repository contains the completed tasks from my 4-week internship at **Code
 This repository includes the following 4 tasks:
 
 ## ✅ Task 1: File Handling in Java
----
 - **Objective:** Read from and write to text files using Java I/O.
 - **Features:**
   - File creation
@@ -70,7 +69,6 @@ Follow these steps to download and run the projects locally:
 
 Open a terminal (or Git Bash) and run:
 
-```bash
 git clone https://github.com/CHANDAN50-2005/java-internship-codtech.git
 
 Then navigate into the project folder:
@@ -79,7 +77,7 @@ cd java-internship-codtech
 
 ---
 
-## 2. Explore Each Task
+### 2. Explore Each Task**
 
 The repository has 4 folders:
 
@@ -140,7 +138,7 @@ Screenshots
 
 ---
 
-## 🏁 Completion Status
+## **🏁 Completion Status:**
 
 | Task | Description                        | Status        |
 |------|------------------------------------|---------------|
@@ -155,6 +153,4 @@ Screenshots
 
 - **Name:** Chandan Jaiwant Gouda  
 - **GitHub:** [CHANDAN50-2005](https://github.com/CHANDAN50-2005)  
-- **Email:** *your.email@example.com*
-
----
+- **Email:** *mrchandangouda50@gmail.com*
