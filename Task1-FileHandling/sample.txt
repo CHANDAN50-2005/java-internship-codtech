@@ -1,0 +1,2 @@
+This is a simple text handling utility in Java.
+This text will be modified.

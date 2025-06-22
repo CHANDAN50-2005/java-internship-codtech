@@ -1,0 +1,11 @@
+✅ File written successfully.
+
+📄 File Content:
+This is a simple file handling utility in Java.
+This file will be modified.
+
+✏️ File modified successfully.
+
+📄 File Content:
+This is a simple text handling utility in Java.
+This text will be modified.
